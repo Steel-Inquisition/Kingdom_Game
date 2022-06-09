@@ -1,0 +1,92 @@
+---------- A month passes! 
+---------- A month passes! 
+Kingdom of 2 wanted to trade with Kingdom of 1! 
+They want to trade 87.29241829557017 of wealth for 839.4477797249372 of food! 
+The deal went not went through! 
+---------- A month passes! 
+You are low on cash! Be warned! 
+Kingdom of 3 wanted to trade with Kingdom of 2! 
+They want to trade 7.882536208937934 of population for 342.50767496545586 of food! 
+The deal went through! 
+---------- A month passes! 
+You payed 10 money to build this month! 
+You are low on cash! Be warned! 
+Kingdom of 2 wanted to trade with Kingdom of 0! 
+They want to trade 6.253593689476823 of population for 29.564305514185435 of wealth! 
+The deal went through! 
+---------- A month passes! 
+You payed 11 money to build this month! 
+You are low on cash! Be warned! 
+Kingdom of 1 declares war on Kingdom of 2!!! 
+Kingdom of 1 decides to attack Kingdom of 2! 
+Kingdom of 1 has Attack Power 165.78 and Kingdom of 2 has Defend Power 108.87544495060938! 
+Therefore Kingdom of 1 won! 
+Kingdom of 1 decides to attack Kingdom of 2! 
+Kingdom of 1 has Attack Power 131.54999999999998 and Kingdom of 2 has Defend Power 108.87544495060938! 
+Therefore Kingdom of 1 won! 
+Kingdom of 1 decides to attack Kingdom of 2! 
+Kingdom of 1 has Attack Power 131.54999999999998 and Kingdom of 2 has Defend Power 76.71099226084291! 
+Therefore Kingdom of 1 won! 
+Kingdom of 4 wanted to trade with Kingdom of 1! 
+They want to trade 30.0423495517999 of wealth for 82.61858770888135 of health! 
+The deal went through! 
+Kingdom of 1 decides to attack Kingdom of 2! 
+Kingdom of 1 has Attack Power 176.61352432769985 and Kingdom of 2 has Defend Power 76.71099226084291! 
+Therefore Kingdom of 1 won! 
+---------- A month passes! 
+You payed 12.000000000000002 money to build this month! 
+You are low on cash! Be warned! 
+Kingdom of 1 decides to attack Kingdom of 2! 
+Kingdom of 1 has Attack Power 176.61352432769985 and Kingdom of 2 has Defend Power 76.71099226084291! 
+Therefore Kingdom of 1 won! 
+Kingdom of 1 decides to attack Kingdom of 2! 
+Kingdom of 1 has Attack Power 176.61352432769985 and Kingdom of 2 has Defend Power 76.71099226084291! 
+Therefore Kingdom of 1 won! 
+Kingdom of 2 surrenders to Kingdom of 1! 
+---------- A month passes! 
+You payed 13.000000000000004 money to build this month! 
+You are low on cash! Be warned! 
+Kingdom of 1 wanted to trade with Kingdom of 0! 
+They want to trade 16.58547095825911 of health for 9.705963039855481 of population! 
+The deal went not went through! 
+---------- A month passes! 
+You payed 14.000000000000004 money to build this month! 
+You are low on cash! Be warned! 
+Kingdom of 3 wanted to trade with Kingdom of 2! 
+They want to trade 13.267030661400433 of population for 904.4975636144497 of food! 
+The deal went not went through! 
+---------- A month passes! 
+You payed 15.000000000000004 money to build this month! 
+You are low on cash! Be warned! 
+---------- A month passes! 
+You payed 16.000000000000007 money to build this month! 
+You are low on cash! Be warned! 
+---------- A month passes! 
+You payed 17.000000000000007 money to build this month! 
+You are low on cash! Be warned! 
+---------- A month passes! 
+You payed 18.000000000000007 money to build this month! 
+You are low on cash! Be warned! 
+---------- A month passes! 
+You are low on cash! Be warned! 
+---------- A month passes! 
+You are low on cash! Be warned! 
+Kingdom of 0 declares war on Kingdom of 1!!! 
+Kingdom of 0 decides to attack Kingdom of 1! 
+Kingdom of 0 has Attack Power 136.79691993552893 and Kingdom of 1 has Defend Power 56.46095008090459! 
+Therefore Kingdom of 0 won! 
+Kingdom of 1 surrenders to Kingdom of 0! 
+---------- A month passes! 
+You are low on cash! Be warned! 
+Kingdom of 4 wanted to trade with Kingdom of 3! 
+They want to trade 3.3194815876936135 of population for 29.960967519077315 of population! 
+The deal went not went through! 
+---------- A month passes! 
+You are low on cash! Be warned! 
+---------- A month passes! 
+You are low on cash! Be warned! 
+Kingdom of 0 wanted to trade with Kingdom of 2! 
+They want to trade 5.719658943113627 of wealth for 29.619266471405577 of wealth! 
+The deal went through! 
+---------- A month passes! 
+You are low on cash! Be warned! 
